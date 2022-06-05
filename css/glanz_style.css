@@ -5425,7 +5425,7 @@ footer {
 .gla_top:after {
 	width: 2px;
 	height: 25px;
-	background: #eee;
+	background: #5c918ceb;
 	display: block;
 	position: absolute;
 	content: '';
